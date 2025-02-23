@@ -1,0 +1,5 @@
+streamlit
+ollama
+PyPDF2
+scikit-learn
+nltk
