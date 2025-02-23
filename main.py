@@ -1,4 +1,3 @@
-#conda activate "C:\Users\Muham\OneDrive\Desktop\Programming\Python Chamber\Streamlit_testing\testenv"
 import streamlit as st
 import ollama
 import PyPDF2
@@ -80,7 +79,7 @@ class RAGBot:
         context = "\n\n".join(relevantSentences) # May never Run
         
         response = ollama.chat(
-            model = "r1", # Model Name (Local Model)
+            model = " ", # Model Name (Local Model)
             messages=[
                 {
                     "role": "system", 
