@@ -15,7 +15,7 @@ Yajirobe The Bot is a RAG (Retrieval-Augmented Generation) chatbot built using S
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/HadesXecutioner/yajirobe-the-bot.git
+   git clone https://github.com/Yajirobe-Senju/yajirobe-the-bot.git
    cd yajirobe-the-bot
    ```
 2. Create a virtual environment (optional but recommended): (I used a conda enviorment :P)
